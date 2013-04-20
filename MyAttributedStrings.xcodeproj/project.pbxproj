@@ -83,9 +83,9 @@
 		9A691AC01721153D00BB8C61 /* MyAttributedStrings */ = {
 			isa = PBXGroup;
 			children = (
+				9A691AD21721153D00BB8C61 /* MainStoryboard.storyboard */,
 				9A691AC91721153D00BB8C61 /* SandboxAppDelegate.h */,
 				9A691ACA1721153D00BB8C61 /* SandboxAppDelegate.m */,
-				9A691AD21721153D00BB8C61 /* MainStoryboard.storyboard */,
 				9A691AD51721153D00BB8C61 /* SandboxViewController.h */,
 				9A691AD61721153D00BB8C61 /* SandboxViewController.m */,
 				9A691AC11721153D00BB8C61 /* Supporting Files */,
@@ -299,6 +299,7 @@
 				9A691ADC1721153D00BB8C61 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
